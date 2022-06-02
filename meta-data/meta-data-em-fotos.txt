@@ -1,0 +1,10 @@
+no proprio window tem como remover
+
+vocÊ pode usar a ferramenta exiftool para remover
+
+pelo CLI
+> exiftool.exe -all= foto.jpg
+
+remove metad dados
+
+além disos, em pendrives é possivel ter resquicios de arquivos antigos nele

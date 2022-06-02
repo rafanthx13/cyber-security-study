@@ -1,0 +1,94 @@
+~ ZHPCleaner v2022.5.7.32 by Nicolas Coolman (2022/05/07)
+~ Run by Vilma (Administrator)  (10/05/2022 19:04:52)
+~ Web: https://www.nicolascoolman.com
+~ Blog: https://nicolascoolman.eu/
+~ Facebook : https://www.facebook.com/nicolascoolman1
+~ State version : Version OK
+~ Type : Repair
+~ Report : C:\Users\Vilma\Desktop\ZHPCleaner (R).txt
+~ Quarantine : C:\Users\Vilma\AppData\Roaming\ZHP\ZHPCleaner_Reg.txt
+~ System Restore Point : OK
+~ UAC : Activate
+~ Boot Mode : Normal (Normal boot)
+Windows 10 Pro, 64-bit  (Build 19044)
+
+
+---\\  Alternate Data Stream (ADS). (0)
+~ No malicious or unnecessary items found.
+
+
+---\\  Services (0)
+~ No malicious or unnecessary items found.
+
+
+---\\  Browser internet (1)
+REPLACED Google Chrome Secure Preferences: "http://start.mysearchdial.com/?f=1&a=irmsd0202ch&cd=2XzuyEtN2Y1L1Qzuzz0Czzzy0AyDtCtB0ByDyC0C0E0EyB0DtN0D0Tzu0SyBzytDtN1L2XzutBtFtBtFtCyDtFtCyCtAtCtN1L1CzutBtAtDtC1N1R&cr=175100252&ir="  =>Adware.MySearchDial
+
+
+---\\  Hosts file (1)
+~ The hosts file is legitimate (27)
+
+
+---\\  Scheduled automatic tasks. (0)
+~ No malicious or unnecessary items found.
+
+
+---\\  Explorer ( File, Folder) (4)
+MOVED file: C:\Users\Vilma\AppData\Local\Google\Chrome\User Data\Default\Preferences    =>Préférences Chromium
+MOVED file: C:\Users\Vilma\AppData\Local\Google\Chrome\User Data\Profile 1\Preferences    =>Préférences Chromium
+MOVED file: C:\Users\Vilma\AppData\Local\Microsoft\Edge\User Data\Default\Preferences    =>Préférences Chromium
+MOVED file: C:\Users\Vilma\AppData\Local\Microsoft\Edge\User Data\Profile 1\Preferences    =>Préférences Chromium
+
+
+---\\  Registry ( Key, Value, Data) (3)
+DELETED key*: HKLM\SOFTWARE\POLICIES\Mozilla\Firefox [AdditionalScan 573]  =>.SUP.FirefoxRestriction
+DELETED key*: [X64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\018E3B523B330F546B8B7939DE66060E [02:\Software\Microsoft\Windows Kits\Installed Roots\10.0.19041.0\Installed Options\OptionId.UWPManaged (Not File)]  =>PUP.Optional.WpManager
+DELETED key*: [X64] HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\0430F1F112E6F8FAE3279396F608338B [C:\Program Files (x86)\Windows Kits\10\References\10.0.19041.0\Windows.ApplicationModel.Search.Core.SearchCoreContract\1.0.0.0\de\Windows.ApplicationModel.Search.Core.SearchCoreContract.xml]  =>PUP.Optional.SearchCore
+
+
+---\\  Summary of the elements found (5)
+https://nicolascoolman.eu/2017/12/23/adware-mysearchdial/  =>Adware.MySearchDial
+https://nicolascoolman.eu/forum/Topic/repaquetage-et-infection/  =>Préférences Chromium
+https://nicolascoolman.eu/forum/Topic/logiciels-potentiellement-superflus-lps/  =>.SUP.FirefoxRestriction
+https://nicolascoolman.eu/forum/Topic/repaquetage-et-infection/  =>PUP.Optional.WpManager
+https://nicolascoolman.eu/forum/Topic/repaquetage-et-infection/  =>PUP.Optional.SearchCore
+
+
+---\\  Other deletions. (31)
+~ Registry Keys Tracing deleted (31)
+~ Remove the old reports ZHPCleaner. (0)
+
+
+---\\ Result of repair
+~ Repair carried out successfully
+~ Google Chrome OK
+~ Internet Explorer OK
+
+
+---\\ Statistics
+~ Items scanned : 1220
+~ Items found : 0
+~ Items cancelled : 0
+~ Space saving (bytes) : 0
+~ Items options : 9/17
+
+
+---\\ OPTIONS NOT ACTIVES
+~ Temporary file analysis
+~ Temporary folder analysis
+~ Empty Folder CLSID Analysis
+~ Empty Other Folder Analysis
+~ Empty LocalLow Folder Analysis
+~ Empty Local Folder Analysis
+~ Obsolete Installer File Analysis
+~ Start browsers with extensions removed
+
+
+
+
+
+~ End of clean in 00h00mn12s
+
+---\\  Reports (2)
+ZHPCleaner-[S]-10052022-18_56_20.txt
+ZHPCleaner-[R]-10052022-19_05_04.txt

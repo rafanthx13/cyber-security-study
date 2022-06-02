@@ -19,3 +19,13 @@ https://imei24.com/
 se tiver algo estranho digite para desativar esse dsvio
 
 \\##002#
+
+## Meu celular Xiaomi
+
+Para os 2 IMEI	
+Model	Redmi Go Black 1GB RAM 8GB ROM
+Country	Paraguay
+Purchased Date	2019-04-18 10:17:36
+Activation Date	2019-06-26 23:48:10
+MI Activation Lock	OFF
+Date of checking	2022-05-17 15:00:45
